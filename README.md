@@ -2,7 +2,7 @@
 
 # Create an Azure Account and Deploy a Virtual Machine in the Cloud
 
-![image](https://github.com/Afrocybersamurai/Azure-VM-create/assets/136266716/003eccc8-f363-4fe0-ad3d-9b0e5f007859)
+![image](https://imgur.com/a/EEZCiy6)
 
 Microsoft Azure is a cloud computing platform with numerous products and services. This guide will demonstrate how to create an account, utilize the portal, and create a virtual machine.
 
