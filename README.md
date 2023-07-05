@@ -27,6 +27,7 @@ First step is to create an Azure account. You can create an account with $200 of
 
 Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 
+Students can sign up in a for $100 credit via this [link](https://azure.microsoft.com/en-gb/free/students/)
 ![image](https://github.com/Afrocybersamurai/Azure-VM-create/assets/136266716/0df2137f-7cd1-419f-822d-0c4a1d1be2fe)
 
 
