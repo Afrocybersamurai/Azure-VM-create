@@ -48,6 +48,11 @@ In order to utilize some of the services in Azure, a resource group needs to be 
 ![image](https://github.com/Afrocybersamurai/Azure-VM-create/assets/136266716/f5623d81-07c3-4712-a669-e455edf73663)
 
 When ready, click create resource groups. From there, you will need to name your resource group and select the region. The region will determine which Azure data center will be utilize. (US) West 3 was chosen for this example. 
+
+Use the [Azure Virtual Desktop Experience Estimator](https://azure.microsoft.com/services/virtual-desktop/assessment/) to determine the connection round-trip time (RTT) from your current location, through the Azure Virtual Desktop service, to the Azure region where you deploy virtual machines.
+
+The highlighted Azure region is the one with the lowest connection RTT from your current location.
+
 Click "Review + Create" once finished
 
 ![image](https://github.com/Afrocybersamurai/Azure-VM-create/assets/136266716/1e34586d-9fee-46f9-a549-5fdbd56761c3)
